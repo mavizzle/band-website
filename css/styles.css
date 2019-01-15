@@ -1,4 +1,4 @@
-.columns {
+/* .columns {
   width: 50%;
   float: left;
 }
@@ -7,11 +7,21 @@
   width: 50%;
   height: auto;
   max-width: 100px;
-}
+}*/
 
 img {
-  float: right;
-  width: 50%;
+  width: 100%;
   height: auto;
   object-fit: contain;
+}
+
+.sidebar {
+  float: left;
+  width: 50%;
+}
+
+.border {
+  border: 3px solid red;
+  padding: 5px;
+  margin: 5px;
 }
