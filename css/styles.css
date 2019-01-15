@@ -1,0 +1,8 @@
+.columns {
+  width: 33%;
+  float: left;
+}
+.re-sizer {
+  width: 500px;
+  length: 500px;
+}
